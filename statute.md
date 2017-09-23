@@ -110,9 +110,9 @@ Il est tenu compte dans le Règlement intérieur des modalités de consultation 
 
 Tout membre du Conseil qui n’aura pas assisté à trois réunions consécutives sans prévenir de son absence pourra être considéré comme démissionnaire.
 
-Les salarié(e)s de l’association sont invité(e)s à participer aux réunions à titre consultatif (pas de droit de vote). Dans ce cas, leur temps passé à ces réunions est considéré comme du temps de travail récupérable.
+Les salarié(e)s de l’association sont invité(e)s à participer aux réunions à titre consultatif. Dans ce cas, leur temps passé à ces réunions est considéré comme du temps de travail récupérable.
 
-Avec l’accord du CA, tout adhérent peut assister sans droit de vote au conseil d’administration.
+Avec l’accord du CA, tout adhérent peut assister (sans pouvoir décisionnel) au conseil d’administration.
 
 Toutes les réunions du Conseil d’administration font l’objet d’un compte-rendu.
 
@@ -128,7 +128,7 @@ Le Conseil d’Administration
 Tous les membres de l’Association.
 Le Conseil d’administration fixe la date et établit l’ordre du jour de ces assemblées.
 
-Seuls les membres à jour de leur cotisation de l’année civile qui précède l’assemblée générale ont droit de vote aux assemblée générales.
+Seuls les membres à jour de leur cotisation de l’année civile qui précède l’assemblée générale ont droit de prendre part aux délibérations lors assemblée générales.
 
 Les membres peuvent se faire représenter. Le nombre de pouvoirs détenus par un membre présent est limité à deux.
 
@@ -136,7 +136,7 @@ Quinze jours au moins avant la date fixée, les membres de l’Association sont 
 
 L’ordre du jour est indiqué sur les convocations.
 
-Les assemblées générales sont publiques. Toute personne qui le souhaite peut être présente (sans droit de vote).
+Les assemblées générales sont publiques. Toute personne qui le souhaite peut être présente (sans pouvoir décisionnel).
 
 Exceptionnellement et pour une raison motivée, le CA pourra décider de tenir l’assemblée générale ordinaire ou extraordinaire par un procédé numérique selon les modalités définies dans le Règlement intérieur.
 
@@ -166,7 +166,7 @@ Les décisions sont prises à la majorité des deux tiers des suffrages exprimé
 
 ### Article 14 - Règlement intérieur
 
-Un Règlement Intérieur est établi par le Conseil d’Administration qui le fait approuver par l’Assemblée Générale. Le règlement intérieur pourra également être approuvé par vote numérique.
+Un Règlement Intérieur est établi par le Conseil d’Administration qui le fait approuver par l’Assemblée Générale.
 
 Ce règlement est destiné à fixer les divers points non prévus par les Statuts, notamment ceux qui ont trait à l’administration interne de l’Association.
 
