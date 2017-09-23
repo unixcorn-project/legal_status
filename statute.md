@@ -11,12 +11,12 @@ Il est fondé entre les adhérents aux présents statuts une Association régie 
 
 L’association <FIND A NAME TO PUT HERE> se donne pour finalité de défendre des valeurs simples :
 
-* respect de l’autre
-* émancipation des individus
-* réapropriation des outils numériques
-* solidarité et partage des compétences
-* refus de toute forme de racisme et de ségrégation 
-* démocratie
+* Respect de l’autre
+* Émancipation des individus
+* Réapropriation des outils numériques
+* Solidarité et partage des compétences
+* Refus de toute forme de racisme et de ségrégation 
+* Démocratie
 
 #### Objet
 
@@ -24,12 +24,12 @@ L’association <FIND A NAME TO PUT HERE> à pour but de promouvoir l’utilisat
 
 À cet effet, l’association s’emploie à :
 
-Militer pour l’usage des logiciels libres.
-Militer pour un internet neutre et décentralisé
-Former à l’utilisation des technologies de l’information et de la communication.
-Mettre en œuvre une infrastructure permettant au plus grand nombre d’héberger des outils numériques.
-Organiser des évènements sur ces thèmes.
-Organiser toute activité en accord avec les orientations présentées en AG.
+- Militer pour l’usage des logiciels libres.
+- Militer pour un internet neutre et décentralisé
+- Former à l’utilisation des technologies de l’information et de la communication.
+- Mettre en œuvre une infrastructure permettant au plus grand nombre d’héberger des outils numériques.
+- Organiser des évènements sur ces thèmes.
+- Organiser toute activité en accord avec les orientations présentées en AG.
 
 ### Article 3 - Siège de l’association
 
